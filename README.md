@@ -1,5 +1,6 @@
 # Laravel-Simple-deploy-version-creator (Tested on Laravel version 4.0, 4.1 and 4.2)
 ## This is a very minimal desktop application built on the .NET Framework. What it'll do is that it will change some files that are necessary when amateurs(like myself) need to host the laravel applications on the production servers from the local environment.
+### BACKUP YOUR PROJECT FIRST!
 ### --> How to use
 ### 1) Download the files.
 ### 2) On the field to enter the directory, enter your project directory in the following format: "C:\all_projects\my_project\".  Don't Forget that last '\'.
